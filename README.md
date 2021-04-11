@@ -4,7 +4,7 @@ A basic Discord.py Nuke bot!
 
 ## Disclaimer
 
-This Nuke bot is only for educational purporse! I do not condone any malicous intent while using this bot. Further I am not held responsible for any malicous behaviour
+This Nuke bot is only for educational purpose! I do not condone any malicous intent while using this bot. Further more I am not held responsible for any malicous behaviour
 
 
 ## How to use:
