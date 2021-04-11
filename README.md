@@ -12,7 +12,7 @@ This Nuke bot is only for educational purporse! I do not condone any malicous in
 1. Go to https://discord.com/developers/applications and create a **new application**
 2. Click on the application and click **Create bot**
 3. Find the bot token and click **copy token**
-4. Dowload the code or install using git:<br>
+4. Dowload the code or install using git (must have git installed):<br>
 ```pip install git+https://github.com/Astro-Developer/Discord.py-Nuke-bot/```
 5. Replace "token" with your bots token in the code
 6. Open the terminal in that folder and run:<br>
