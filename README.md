@@ -1,24 +1,3 @@
-# Discord.py-Nuke-bot
-
-A basic Discord.py Nuke bot!
-
-## Disclaimer
-
-This Nuke bot is only for educational purpose! I do not condone any malicous intent while using this bot. Further more I am not held responsible for any malicous behaviour
-
-
-## How to use:
-
-
-
-## Commands:
-
-1. !a - Delete all server channels
-2. !b - Kick all members
-3. !c - Ban all members
-4. !d - Gives you admin
-5. !e - Nuke all channels & ban all members
-
 <br/>
 
 ## Discord Nuke bot
