@@ -21,7 +21,7 @@ This Nuke bot is only for educational purpose! I do not condone any malicous int
 ```python3 main.py```
 7. Your bot is now online!
 
-## 🔨&nCommands:
+## 🔨&nbsp; Commands:
 
 1. !a - Delete all server channels
 2. !b - Kick all members
