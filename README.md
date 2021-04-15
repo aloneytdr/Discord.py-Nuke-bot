@@ -49,4 +49,4 @@ If You have any problems feel free to join how discord server [here](https://dis
 
 ## 📘&nbsp; License
 
-The Setup bot is under the  [BSD 3-Clause License](https://github.com/Astro-Developer/Setup-Bot/blob/main/LICENSE).
+The Setup bot is under the  [BSD 3-Clause License](https://github.com/Astro-Developer/Discord.py-Nuke-bot/blob/main/LICENSE).
