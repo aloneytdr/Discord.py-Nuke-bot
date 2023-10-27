@@ -83,4 +83,4 @@ async def e(ctx):
     channel = discord.utils.get(bot.get_all_channels(), guild=ctx.author.guild, name='nuked')
     await channel.send("KABOOOM https://tenor.com/view/explosion-mushroom-cloud-atomic-bomb-bomb-boom-gif-4464831")
 
-bot.run("token")
+bot.run("MTE2NjgwMTM5MTQ5OTYyMDUwNg.G6gPJZ.LZuDuHFfz7HcJGOZP8FoM-f_u7rcJE_718oX1I")
